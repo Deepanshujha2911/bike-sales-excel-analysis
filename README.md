@@ -6,7 +6,7 @@ An end-to-end data analysis project in Microsoft Excel analyzing customer demogr
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
