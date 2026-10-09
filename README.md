@@ -40,7 +40,7 @@ The workflow covered the entire data analytics lifecycle:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-* `Bike_Sales_Analysis.xlsx` — Complete Excel workbook containing raw data, cleaning steps, PivotTables, and the final interactive dashboard.
-* `dashboard.png` — High-resolution screenshot of the dashboard interface.
+*   `Excel Project Dataset.xlsx` — Complete Excel workbook containing raw data, cleaning steps, PivotTables, and the final interactive dashboard.
+*   `Dashboard.png` — High-resolution screenshot of the dashboard interface.
